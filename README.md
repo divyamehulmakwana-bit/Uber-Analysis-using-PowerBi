@@ -13,7 +13,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ## Pages & Features
 
 ### 1. Overview Page  
-**Link:** [Overview Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Overview%20Page.png)  
+![Overview Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Overview%20Page.png)  
+
 **Key Features:**  
 - **KPIs:**  
   - Total Sales: 51.85M  
@@ -30,7 +31,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ---
 
 ### 2. Bookings & Trends Page  
-**Link:** [Bookings & Trends Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Bookings%20%26%20Trends%20Page.png)  
+![Bookings & Trends Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Bookings%20%26%20Trends%20Page.png)  
+
 **Key Features:**  
 - **KPIs:** Completed Rides: 93k, Pending Rides: ~9k  
 - **Visualizations:**  
@@ -42,7 +44,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ---
 
 ### 3. Cancellations Page  
-**Link:** [Cancellations Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Cancellations%20Page.png)  
+![Cancellations Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Cancellations%20Page.png)  
+
 **Key Features:**  
 - **KPIs:**  
   - Total Cancelled Rides: 37.5k  
@@ -58,7 +61,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ---
 
 ### 4. Performance Page  
-**Link:** [Performance Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Performance%20Page.png)  
+![Performance Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Performance%20Page.png)  
+
 **Key Features:**  
 - **KPIs:**  
   - Avg Driver Arrival Time: 8.4 mins  
@@ -74,7 +78,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ---
 
 ### 5. Revenue & Payment Page  
-**Link:** [Revenue & Payment Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Revenue%20%26%20Payment%20Page.png)  
+![Revenue & Payment Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Revenue%20%26%20Payment%20Page.png)  
+
 **Key Features:**  
 - **KPIs:**  
   - Total Revenue: 51M  
@@ -89,7 +94,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 ---
 
 ### 6. Customer & Driver Ratings Page  
-**Link:** [Customer & Driver Ratings Screenshot](https://github.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/blob/main/Screenshots/Customer%20%26%20Driver%20Ratings%20Page.png)  
+![Customer & Driver Ratings Page](https://raw.githubusercontent.com/divyamehulmakwana-bit/Uber-Analysis-using-PowerBi/main/Screenshots/Customer%20%26%20Driver%20Ratings%20Page.png)  
+
 **Key Features:**  
 - **KPIs:**  
   - Total Customers: 149k  
@@ -117,6 +123,15 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 - **DAX (Data Analysis Expressions):** For calculated columns, measures, and KPIs.  
 - **Kaggle Dataset:** Raw Uber ride data (~1.5 lakh rows).  
 - **GitHub:** Hosting screenshots and project documentation.
+
+---
+
+## How to Use
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv).  
+2. Open Power BI Desktop and import the dataset.  
+3. Load the report pages to explore KPIs, trends, cancellations, revenue, and performance metrics.  
+4. Interact with filters and slicers to analyze specific months, vehicle types, or pickup locations.  
+
 
 ---
 
